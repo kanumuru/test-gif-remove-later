@@ -18,4 +18,6 @@ cd gh-actions-information-disclosure
 * Step 3: Generate `personal access token` for authentication to your github account through CLI which will be used in further steps
 ![](https://test-gif-bucket.s3.us-west-2.amazonaws.com/personal_acess_token.gif)
 
+<img src='https://test-gif-bucket.s3.us-west-2.amazonaws.com/personal_acess_token.gif' width: 300 />
+
 
