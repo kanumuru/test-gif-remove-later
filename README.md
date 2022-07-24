@@ -20,4 +20,10 @@ cd gh-actions-information-disclosure
 
 <img src='https://test-gif-bucket.s3.us-west-2.amazonaws.com/personal_acess_token.gif' width: 300 />
 
+<gif src='https://test-gif-bucket.s3.us-west-2.amazonaws.com/personal_acess_token.gif' width: 300 />
+
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
+
+![Alt Text](https://test-gif-bucket.s3.us-west-2.amazonaws.com/personal_acess_token.gif)
 
